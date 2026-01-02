@@ -1,0 +1,3 @@
+Oct 13 2025 15:01:26
+{"type":8192,"message":"Creation of dynamic property CPSW\\Compatibility\\Apple_Pay::$express_checkout is deprecated","file":"C:\\Users\\majci\\Local Sites\\dudu-duck\\app\\public\\wp-content\\plugins\\checkout-plugins-stripe-woo\\compatibility\\apple-pay.php","line":123}
+

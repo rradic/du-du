@@ -1,0 +1,1 @@
+import{Host,h}from"@stencil/core";export class ScProse{render(){return h(Host,{key:"854f47c3ca56fa25b78bf2a9bbc6773a994d827a"},h("slot",{key:"f2e0fda672932a5b612a2ac50957f0f69e703f7e"}))}static get is(){return"sc-prose"}static get encapsulation(){return"shadow"}static get originalStyleUrls(){return{$:["sc-prose.css"]}}static get styleUrls(){return{$:["sc-prose.css"]}}}
